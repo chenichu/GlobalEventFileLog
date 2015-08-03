@@ -7,7 +7,7 @@ using DDDSkeleton.Common.Domain;
 
 namespace DDDSkeleton.Common.UnitOfWork
 {
-    class IUnitOfWork
+    public interface IUnitOfWork
     {
         void RegisterUpdate(IAggregateRoot aggregateRoot, IUnitOfWorkRepository repository);
         void RegisterInsertion(IAggregateRoot aggregateRoot, IUnitOfWorkRepository repository);

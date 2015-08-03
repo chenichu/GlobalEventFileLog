@@ -7,13 +7,10 @@ using DDDSkeleton.Common.Domain;
 
 namespace DDDSkeleton.Common.UnitOfWork
 {
-    class IUnitOfWorkRepository
-    {
         public interface IUnitOfWorkRepository
         {
             void PersistInsertion(IAggregateRoot aggregateRoot);
             void PersistUpdate(IAggregateRoot aggregateRoot);
             void PersistDeletion(IAggregateRoot aggregateRoot);
         }
-    }
 }

@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EventFile\EventFile.cs" />
+    <Compile Include="EventFile\IEventFileRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValueObjects\EventFileID.cs" />
   </ItemGroup>

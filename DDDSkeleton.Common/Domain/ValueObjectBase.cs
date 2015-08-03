@@ -37,5 +37,4 @@ namespace DDDSkeleton.Common.Domain
 			_brokenRules.Add(businessRule);
 		}
 	}
-    }
 }

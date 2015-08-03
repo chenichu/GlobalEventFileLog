@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DDDSkeleton.Common.Domain
 {
-    class IAggregateRoot
+    public interface IAggregateRoot
     {
     }
 }
