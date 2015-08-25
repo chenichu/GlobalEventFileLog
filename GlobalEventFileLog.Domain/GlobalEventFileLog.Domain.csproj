@@ -39,9 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Environment\Environment.cs" />
     <Compile Include="EventFile\EventFile.cs" />
     <Compile Include="EventFile\IEventFileRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValueObjects\EnvironmentID.cs" />
+    <Compile Include="ValueObjects\EnvironmentName.cs" />
     <Compile Include="ValueObjects\EventFileID.cs" />
   </ItemGroup>
   <ItemGroup>
