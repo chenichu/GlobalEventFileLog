@@ -1,0 +1,7 @@
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\obj\Debug\GlobalEventFileLog.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\bin\Debug\GlobalEventFileLog.Domain.dll
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\bin\Debug\GlobalEventFileLog.Domain.pdb
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\bin\Debug\DDDSkeleton.Common.dll
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\bin\Debug\DDDSkeleton.Common.pdb
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\obj\Debug\GlobalEventFileLog.Domain.dll
+C:\Users\Patrick Chen\Documents\Visual Studio 2013\Projects\GlobalEventFileLog\GlobalEventFileLog.Domain\obj\Debug\GlobalEventFileLog.Domain.pdb
