@@ -14,6 +14,6 @@ namespace GlobalEventFileLog.Domain.ValueObjects
             throw new NotImplementedException();
         }
 
-        public int ID { get; set; }
+        public int ID { get; private set; }
     }
 }

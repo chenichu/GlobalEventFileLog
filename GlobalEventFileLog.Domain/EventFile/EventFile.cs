@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DDDSkeleton.Common.Domain;
+using GlobalEventFileLog.Domain.ValueObjects;
 
 namespace GlobalEventFileLog.Domain
 {
@@ -15,6 +16,8 @@ namespace GlobalEventFileLog.Domain
         }
 
         public string EventFileName { get; set; }
+
+        public EventFileID EventFileId { get; private set; }
 
     }
 }
